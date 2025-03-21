@@ -1,8 +1,8 @@
-# ⚡SynapseCode - AI Assisted Code Editor with Real-Time Collaboration
+# CodeZens - AI Assisted Code Editor with Real-Time Collaboration
 
 ## Overview
 
-SynapseCode is a lightweight, AI-assisted code editor designed to empower developers with real-time multi-user collaboration and advanced AI-driven features. Built with a secure and intuitive workspace, SynapseCode not only supports live code editing and file management but also enhances productivity with AI-powered linting, auto-completion, documentation generation, and syntax correction.
+CodeZens is a lightweight, AI-assisted code editor designed to empower developers with real-time multi-user collaboration and advanced AI-driven features. Built with a secure and intuitive workspace, SynapseCode not only supports live code editing and file management but also enhances productivity with AI-powered linting, auto-completion, documentation generation, and syntax correction.
 
 ## Problem Statement
 
@@ -12,7 +12,7 @@ Modern software development demands rapid collaboration and high-quality code. D
 - **Ensure organized workspace management:** Support both private and public workspaces with clear file/folder hierarchies.
 - **Automatically synchronize code, files, and user interactions:** Eliminate manual saving and reduce merge conflicts.
 
-SynapseCode meets these needs by integrating advanced AI capabilities with robust real-time collaboration, empowering teams to write, review, and maintain high-quality code efficiently.
+CodeZens meets these needs by integrating advanced AI capabilities with robust real-time collaboration, empowering teams to write, review, and maintain high-quality code efficiently.
 
 ## Solution Architecture
 
@@ -88,9 +88,5 @@ SynapseCode meets these needs by integrating advanced AI capabilities with robus
 - **AI Chatbot:**  
   - An interactive AI chatbot is embedded within the editor, offering instant help, brainstorming ideas, and generating documentation on demand.
 
-## Installation & Setup
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/ankit071105/Haxplore.git
-   cd Haxplore
+
